@@ -8,7 +8,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Type Matte</title>
       </Head>
-      <main className={"min-h-screen bg-slate-500"}>
+      <main className={"min-h-screen bg-slate-800"}>
         <div className="container mx-auto flex items-center justify-between p-6">
           <Logo />
         </div>

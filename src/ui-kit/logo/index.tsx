@@ -9,7 +9,7 @@ export const Logo = () => {
         height={25}
         alt={"type-matte-logo"}
       />
-      <span className={"mr-8 ml-2 text-xl font-bold tracking-wide"}>
+      <span className={"mr-8 ml-2 text-xl font-bold tracking-wide text-white"}>
         type-matte
       </span>
     </div>
